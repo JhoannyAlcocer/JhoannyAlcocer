@@ -1,5 +1,5 @@
 Hi! I’m Jhoanny, a **Civil Engineer** working in the world of international logistics as an **Import Gateway Specialist**.
-Currently, I’m transitioning into ***Data Analysis**, combining my analytical background with tools like Python, SQL and data visualization to solve real-world problems.
+Currently, I’m transitioning into **Data Analysis**, combining my analytical background with tools like Python, SQL and data visualization to solve real-world problems.
 
 I love turning data into insights, learning new technologies, and building projects that help me grow in the IT field.
 
