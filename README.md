@@ -11,10 +11,6 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Data%20Analyst;Civil%20Engineer;Always%20learning%20new%20things;Feel%20free%20to%20look%20around%20%F0%9F%91%80;Reach%20out%20%F0%9F%92%AC&;ACfont=Fira%20Code&center=true&width=440&height=45"></a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/Abdalrahman-Alhamod/" align="center" ><img align="center"  alt="" src="https://visitor-badge.laobi.icu/badge?page_id=Abdalrahman-Alhamod.Abdalrahman-Alhamod"></a>
-</p>
-
 I'm currenly working in the world of international logistics as an **Import Gateway Specialist**. Also, I’m transitioning into **Data Analysis**, combining my analytical background with tools like Python, SQL and data visualization to solve real-world problems.
 
 I love turning data into insights, learning new technologies, and building projects that help me grow in the IT field.
